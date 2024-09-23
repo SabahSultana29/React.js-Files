@@ -1,0 +1,13 @@
+.TicketNum {
+  font-size: 2rem;
+  /* border: 1px solid purple; */
+  border: 1px solid purple;
+  border-radius: 14px;
+  width: 400px;
+  letter-spacing: 16px;
+  margin-bottom: 16px;
+}
+.Ticket {
+  letter-spacing: 8px;
+  overflow: hidden;
+}

@@ -1,0 +1,13 @@
+.ticket {
+  border: 1px solid purple;
+  border-radius: 14px;
+  letter-spacing: 1rem;
+}
+
+.button {
+  border: 1px solid purple;
+  border-radius: 14px;
+  color: white;
+  background-color: rgb(93, 1, 93);
+  font-size: 0.75rem;
+}
